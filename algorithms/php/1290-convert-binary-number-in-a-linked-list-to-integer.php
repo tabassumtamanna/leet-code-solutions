@@ -39,7 +39,7 @@
  Each node's value is either 0 or 1.
 
  **************************************************************************************************/
-
+<?php
 
 /**
  * Definition for a singly-linked list.
@@ -73,3 +73,4 @@ class Solution {
        return $val;
     }
 }
+?>
