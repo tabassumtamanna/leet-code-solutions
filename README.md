@@ -4,6 +4,13 @@
 
 | # | Title | Solution | Difficulty
 | ------ | ------ |  ----- | ----- | 
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/1365-how-many-numbers-are-smaller-than-the-current-number.php) | Easy
+| 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/1351-count-negative-numbers-in-a-sorted-matrix.php) | Easy
+| 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/1342-number-of-steps-to-reduce-a-number-to-zero.php) | Easy
+| 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/1323-maximum-69-number.php) | Easy
+| 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/1313-decompress-run-length-encoded-list.php) | Easy
+| 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/1290-convert-binary-number-in-a-linked-list-to-integer.php) | Easy
+| 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/1281-subtract-the-product-and-sum-of-digits-of-an-integer.php) | Easy
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/1189-maximum-number-of-balloons.php) | Easy
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/1108-defanging-an-ip-address.php) | Easy
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/1025-divisor-game.php) | Easy
