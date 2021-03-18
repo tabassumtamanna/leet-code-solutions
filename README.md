@@ -9,6 +9,7 @@
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/1025-divisor-game.php) | Easy
 | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/1009-complement-of-base-10-integer.php) | Easy
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/938-range-sum-of-bst.php) | Easy
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Swift](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/swift/876-middle-of-the-linked-list.swift) | Easy
 | 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/868-binary-gap.php) | Easy
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/852-peak-index-in-a-mountain-array.php) | Easy
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/804-unique-morse-code-words.php) | Easy
