@@ -44,9 +44,25 @@ class Solution {
      * @return NULL
      */
     function rotate(&$nums, $k) {
-        $n = count($nums) - $k;
-        $nums = array_merge(array_splice($nums,$n), $nums);
+        
+        $k %= count($nums);
+        
+        $this->reverse($nums, 0, count($nums)-1);
+        $this->reverse($nums, 0, $k-1);
+        $this->reverse($nums, $k, count($nums)-1);
+        
     }
+    
+    function reverse(&$nums, $start, $end){
+       
+       while ($start < $end){
+           $temp = $nums[$start];
+           $nums[$start] = $nums[$end];
+           $nums[$end] = $temp;
+           $start++;
+           $end--;
+       }
+   }
 }
 ?>
 
