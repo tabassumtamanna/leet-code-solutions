@@ -5,7 +5,7 @@
 | # | Title | Solution | Difficulty
 | ------ | ------ |  ----- | ----- | 
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/1678-goal-parser-interpretation.php), [Swift](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/swift/1678-goal-parser-interpretation.swift)| Easy
-| 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/1672-richest-customer-wealth.php) | Easy
+| 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/1672-richest-customer-wealth.php), [Swift](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/swift/1672-richest-customer-wealth.swift)| Easy
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/1662-check-if-two-string-arrays-are-equivalent.php) | Easy
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/1528-shuffle-string.php) | Easy
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Swift](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/swift/1512-number-of-good-pairs.swift) | Easy
