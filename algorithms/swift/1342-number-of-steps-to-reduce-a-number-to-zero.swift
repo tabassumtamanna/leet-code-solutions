@@ -37,6 +37,7 @@
  0 <= num <= 10^6
  
  **************************************************************************************************/
+import Foundation
 
 class Solution {
     func numberOfSteps (_ num: Int) -> Int {

@@ -33,6 +33,7 @@
  1 <= nums[i] <= 100
  
 **************************************************************************************************/
+import Foundation
 
 class Solution {
     func numIdenticalPairs(_ nums: [Int]) -> Int {

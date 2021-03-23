@@ -34,6 +34,7 @@
  0 <= nums[i] <= 100
  
  **************************************************************************************************/
+import Foundation
 
 class Solution {
     func smallerNumbersThanCurrent(_ nums: [Int]) -> [Int] {

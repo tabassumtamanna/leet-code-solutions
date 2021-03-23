@@ -34,6 +34,7 @@
  command consists of "G", "()", and/or "(al)" in some order.
  
 **************************************************************************************************/
+import Foundation
 
 class Solution {
     func interpret(_ command: String) -> String {

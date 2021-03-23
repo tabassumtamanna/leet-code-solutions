@@ -50,6 +50,7 @@
  0 <= index[i] <= i
  
  **************************************************************************************************/
+import Foundation
 
 class Solution {
     func createTargetArray(_ nums: [Int], _ index: [Int]) -> [Int] {

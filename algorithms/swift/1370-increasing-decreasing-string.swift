@@ -51,6 +51,7 @@
  s contains only lower-case English letters.
  
  **************************************************************************************************/
+import Foundation
 
 class Solution {
     func sortString(_ s: String) -> String {
