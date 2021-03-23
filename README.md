@@ -41,6 +41,7 @@
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/189-rotate-array.php) | Medium
 | 125 | [Valid Palindromee](https://leetcode.com/problems/valid-palindrome/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/125-valid-palindrome.php) | Easy
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/104-maximum-depth-of-binary-tree.php) | Easy
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Swift](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/swift/83-remove-duplicates-from-sorted-list.swift) | Easy
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/35-search-insert-position.php) | Easy
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/26-remove-duplicates-from-sorted-array.php) | Easy
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/9-palindrome-number.php) | Easy
