@@ -37,6 +37,7 @@
 | 507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/507-perfect-number.php) | Easy
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/344-reverse-string.php) | Easy
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/278-first-bad-version.php) | Easy
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/237-delete-node-in-a-linked-list.php), [Swift](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/swift/237-delete-node-in-a-linked-list.swift)| Easy
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/189-rotate-array.php) | Medium
 | 125 | [Valid Palindromee](https://leetcode.com/problems/valid-palindrome/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/125-valid-palindrome.php) | Easy
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/104-maximum-depth-of-binary-tree.php) | Easy
