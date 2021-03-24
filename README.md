@@ -33,6 +33,7 @@
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/804-unique-morse-code-words.php) | Easy
 | 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/728-self-dividing-numbers.php) | Easy
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/709-to-lower-case.php) | Easy
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/704-binary-search.php), [Swift](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/swift/704-binary-search.swift) | Easy
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/557-reverse-words-in-a-string-III.php) | Easy
 | 507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/507-perfect-number.php) | Easy
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [PHP](https://github.com/tabassumtamanna/leet-code-solutions/blob/main/algorithms/php/344-reverse-string.php) | Easy
